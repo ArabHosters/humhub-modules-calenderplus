@@ -1,0 +1,10 @@
+{
+    "id": "calendarplus",
+    "name": "Calendar - Plus",
+    "description": "RizeOne Calendar",
+    "keywords": ["calendar"],
+    "version": "1.0",
+    "humhub": {
+        "minVersion": "0.11.0"
+    }
+}
